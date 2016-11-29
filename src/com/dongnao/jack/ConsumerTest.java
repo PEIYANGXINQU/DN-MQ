@@ -9,6 +9,7 @@ public class ConsumerTest {
         DNConsumer dnc = new DNConsumerImpl();
         dnc.init();
         new ConsumerTest().handlerMsg(dnc);
+        System.out.println();
     }
     
     public void handlerMsg(DNConsumer dnc) {
