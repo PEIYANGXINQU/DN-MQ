@@ -36,6 +36,10 @@ public class DNConsumerImpl implements DNConsumer {
             connection.start();
             
             session = connection.createSession(false, Session.AUTO_ACKNOWLEDGE);
+            System.out.println("我是消费者：我接收到的消息为：");
+            System.out.println("我是消费者：我接收到的消息为：");
+            System.out.println("我是消费者：我接收到的消息为：");
+            System.out.println("我是消费者：我接收到的消息为：");
             
         }
         catch (Exception e) {
