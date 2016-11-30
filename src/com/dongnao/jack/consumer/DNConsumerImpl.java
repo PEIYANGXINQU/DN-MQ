@@ -41,6 +41,10 @@ public class DNConsumerImpl implements DNConsumer {
             System.out.println("我是消费者：我接收到的消息为：");
             System.out.println("我是消费者：我接收到的消息为：");
             
+            System.out.println("我是消费者：我接收到的消息为：");
+            System.out.println("我是消费者：我接收到的消息为：");
+            System.out.println("我是消费者：我接收到的消息为：");
+            System.out.println("我是消费者：我接收到的消息为：");
             
             System.out.println("我是消费者：我接收到的消息为：");
             System.out.println("我是消费者：我接收到的消息为：");
