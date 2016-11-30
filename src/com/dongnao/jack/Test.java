@@ -30,7 +30,7 @@ public class Test {
         
         public void run() {
             while (true) {
-                dnp.sendMessage("DN-JACK-1");
+                dnp.sendMessage("DN-JACK-2");
                 try {
                     Thread.sleep(500);
                 }

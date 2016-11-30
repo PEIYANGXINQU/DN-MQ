@@ -36,7 +36,7 @@ public class ConsumerTest {
         
         public void run() {
             while (true) {
-                dnc.getMessage("DN-JACK-1");
+                dnc.getMessage("DN-JACK-2");
                 try {
                     Thread.sleep(500);
                 }
